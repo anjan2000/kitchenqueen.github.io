@@ -223,6 +223,7 @@ footer {
   cursor: pointer;
 }
 .bton {
+  margin: auto 125px;
   padding: 1px 4px;
   border: 2px solid rgb(0 255 182);
   background-color: rgb(5 184 30);
